@@ -8,7 +8,7 @@ The module challenge is the afternoon project or assignment that students work t
 
 ## Objectives
 
-- use let, const, var and demonstrate their differences.
+- us e let, const, var and demonstrate their differences.
 - understand and be able to use different operators.
 - write a basic for loop / while loop.
 - write control flow using if/else statements.
